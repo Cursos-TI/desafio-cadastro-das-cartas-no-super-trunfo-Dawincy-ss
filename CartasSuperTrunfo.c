@@ -18,6 +18,11 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
+
+
+
+    
+
         //Desafio Super trunfo paises nivel novato:
 
 // variaveis
@@ -30,8 +35,10 @@ int main() {
     float pib1, pib2;
     int pontos1, pontos2;
 
+// Texto de introdução ao jogador:    
+
     printf("Bem-Vindo ao Super Trunfo Paises! \n");
-    printf("Para poder jogar é nescessario o cadastramento de cartas, onde nelas irão conter as seguintes informações: \n 1° Estado (Apenas a sigla)\n 2° Codigo da carta (Que deve começar com a letra da inicial do estado)\n 3° Nome da Cidade\n 4° População\n 5° Area em km²\n 6° PIB(Produto Interno Bruto)\n 7° Número de pontos turisticos \n");
+    printf("Para poder jogar é nescessario o cadastramento de cartas, onde nelas irão conter as seguintes informações: \n 1° Estado (Apenas a sigla)\n 2° Codigo da carta (Que deve começar com a letra da inicial do estado)\n 3° Nome da Cidade\n 4° População\n 5° Area em km²\n 6° PIB(Produto Interno Bruto) em Bilhões\n 7° Número de pontos turisticos \n");
     printf("Bom, entendendo como funciona vamos para a proxíma fase!\n Cadastre a baixo as suas cartas!\n Seja curioso! Não cadastre cidades muito conhecidas! \n");
 
  //Entrada de dados digitados pelo jogador:   
